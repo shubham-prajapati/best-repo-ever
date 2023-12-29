@@ -1,2 +1,3 @@
 # best-repo-ever
-This is a basic trailhead repo
+This is a hello basic trailhead repo
+this is to generate a merge conflict with 2
